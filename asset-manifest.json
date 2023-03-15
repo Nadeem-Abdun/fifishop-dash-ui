@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/fifishop-dash-ui/static/js/main.5dc43519.js",
+    "static/js/787.077bd74e.chunk.js": "/fifishop-dash-ui/static/js/787.077bd74e.chunk.js",
+    "static/media/WebsiteLogo.png": "/fifishop-dash-ui/static/media/WebsiteLogo.7443f3cf4e2dfeef1b9b.png",
+    "index.html": "/fifishop-dash-ui/index.html",
+    "main.5dc43519.js.map": "/fifishop-dash-ui/static/js/main.5dc43519.js.map",
+    "787.077bd74e.chunk.js.map": "/fifishop-dash-ui/static/js/787.077bd74e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5dc43519.js"
+  ]
+}
